@@ -1,2 +1,2 @@
 # DemoCapDevOps
-Repositorio para ejercicios de prueba capacitacion DevOps
+Repositorio para ejercicios de prueba capacitación DevOps
